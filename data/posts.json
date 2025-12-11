@@ -1,0 +1,690 @@
+[
+  {
+    "id": "e8cb9932-da75-49d9-9de1-2d301ce3f4af",
+    "noteId": "test-local",
+    "prompt": "Create a blog about how AI is changing education.",
+    "createdAt": "2025-12-11T13:03:43.257Z",
+    "title": "How AI is Transforming Education",
+    "postUrl": "http://blogforge-local.local/how-ai-is-transforming-education/",
+    "wpFull": {
+      "id": 5,
+      "date": "2025-12-11T13:03:42",
+      "date_gmt": "2025-12-11T13:03:42",
+      "guid": {
+        "rendered": "http://blogforge-local.local/how-ai-is-transforming-education/",
+        "raw": "http://blogforge-local.local/how-ai-is-transforming-education/"
+      },
+      "modified": "2025-12-11T13:03:42",
+      "modified_gmt": "2025-12-11T13:03:42",
+      "password": "",
+      "slug": "how-ai-is-transforming-education",
+      "status": "publish",
+      "type": "post",
+      "link": "http://blogforge-local.local/how-ai-is-transforming-education/",
+      "title": {
+        "raw": "How AI is Transforming Education",
+        "rendered": "How AI is Transforming Education"
+      },
+      "content": {
+        "raw": "<h1>How AI is Transforming Education</h1>\n<p>Artificial Intelligence (AI) is revolutionizing various sectors, and education is no exception. From personalized learning to administrative efficiencies, AI is changing the landscape of education in profound ways.</p>\n<h2>Personalized Learning Experiences</h2>\n<p>AI technologies enable tailored educational experiences for students. This customization allows learners to progress at their own pace, catering to their unique needs and learning styles.</p>\n<h2>Enhanced Administrative Efficiency</h2>\n<p>AI can automate administrative tasks, reducing the burden on educators. This allows teachers to focus more on teaching and less on paperwork, improving the overall educational experience.</p>\n<h2>Intelligent Tutoring Systems</h2>\n<p>AI-driven tutoring systems provide students with additional support outside the classroom. These systems can adapt to individual learning patterns, offering help when and where it’s needed most.</p>\n<h2>Data-Driven Insights</h2>\n<p>AI can analyze vast amounts of data to provide actionable insights for educators. This data helps in identifying trends and areas that need improvement, leading to better teaching strategies.</p>\n<h2>Virtual Learning Environments</h2>\n<p>AI is integral to the development of immersive virtual learning environments. These platforms enhance engagement and provide interactive learning experiences that traditional classrooms may lack.</p>\n<p>In conclusion, AI is significantly reshaping education by making it more personalized, efficient, and engaging. As technology continues to advance, the potential for AI in education will only grow, promising a brighter future for learners around the globe.</p>\n",
+        "rendered": "<h1>How AI is Transforming Education</h1>\n<p>Artificial Intelligence (AI) is revolutionizing various sectors, and education is no exception. From personalized learning to administrative efficiencies, AI is changing the landscape of education in profound ways.</p>\n<h2>Personalized Learning Experiences</h2>\n<p>AI technologies enable tailored educational experiences for students. This customization allows learners to progress at their own pace, catering to their unique needs and learning styles.</p>\n<h2>Enhanced Administrative Efficiency</h2>\n<p>AI can automate administrative tasks, reducing the burden on educators. This allows teachers to focus more on teaching and less on paperwork, improving the overall educational experience.</p>\n<h2>Intelligent Tutoring Systems</h2>\n<p>AI-driven tutoring systems provide students with additional support outside the classroom. These systems can adapt to individual learning patterns, offering help when and where it’s needed most.</p>\n<h2>Data-Driven Insights</h2>\n<p>AI can analyze vast amounts of data to provide actionable insights for educators. This data helps in identifying trends and areas that need improvement, leading to better teaching strategies.</p>\n<h2>Virtual Learning Environments</h2>\n<p>AI is integral to the development of immersive virtual learning environments. These platforms enhance engagement and provide interactive learning experiences that traditional classrooms may lack.</p>\n<p>In conclusion, AI is significantly reshaping education by making it more personalized, efficient, and engaging. As technology continues to advance, the potential for AI in education will only grow, promising a brighter future for learners around the globe.</p>\n",
+        "protected": false,
+        "block_version": 0
+      },
+      "excerpt": {
+        "raw": "Discover the impact of AI on education and how it's reshaping learning experiences.",
+        "rendered": "<p>Discover the impact of AI on education and how it&#8217;s reshaping learning experiences.</p>\n",
+        "protected": false
+      },
+      "author": 1,
+      "featured_media": 0,
+      "comment_status": "open",
+      "ping_status": "open",
+      "sticky": false,
+      "template": "",
+      "format": "standard",
+      "meta": {
+        "footnotes": ""
+      },
+      "categories": [
+        1
+      ],
+      "tags": [],
+      "permalink_template": "http://blogforge-local.local/%postname%/",
+      "generated_slug": "how-ai-is-transforming-education",
+      "class_list": [
+        "post-5",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-uncategorized"
+      ],
+      "_links": {
+        "self": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/5",
+            "targetHints": {
+              "allow": [
+                "GET",
+                "POST",
+                "PUT",
+                "PATCH",
+                "DELETE"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/types/post"
+          }
+        ],
+        "author": [
+          {
+            "embeddable": true,
+            "href": "http://blogforge-local.local/wp-json/wp/v2/users/1"
+          }
+        ],
+        "replies": [
+          {
+            "embeddable": true,
+            "href": "http://blogforge-local.local/wp-json/wp/v2/comments?post=5"
+          }
+        ],
+        "version-history": [
+          {
+            "count": 0,
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/5/revisions"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/media?parent=5"
+          }
+        ],
+        "wp:term": [
+          {
+            "taxonomy": "category",
+            "embeddable": true,
+            "href": "http://blogforge-local.local/wp-json/wp/v2/categories?post=5"
+          },
+          {
+            "taxonomy": "post_tag",
+            "embeddable": true,
+            "href": "http://blogforge-local.local/wp-json/wp/v2/tags?post=5"
+          }
+        ],
+        "wp:action-publish": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/5"
+          }
+        ],
+        "wp:action-unfiltered-html": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/5"
+          }
+        ],
+        "wp:action-sticky": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/5"
+          }
+        ],
+        "wp:action-assign-author": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/5"
+          }
+        ],
+        "wp:action-create-categories": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/5"
+          }
+        ],
+        "wp:action-assign-categories": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/5"
+          }
+        ],
+        "wp:action-create-tags": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/5"
+          }
+        ],
+        "wp:action-assign-tags": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/5"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "89ea547f-d098-4dc7-88bd-a96cdd699545",
+    "noteId": "frontend-test",
+    "prompt": "Hello! My name is Muskan.",
+    "createdAt": "2025-12-11T15:01:08.988Z",
+    "title": "Welcome Muskan: A Journey of Exploration",
+    "postUrl": "http://blogforge-local.local/welcome-muskan-a-journey-of-exploration/",
+    "wpFull": {
+      "id": 6,
+      "date": "2025-12-11T15:01:07",
+      "date_gmt": "2025-12-11T15:01:07",
+      "guid": {
+        "rendered": "http://blogforge-local.local/welcome-muskan-a-journey-of-exploration/",
+        "raw": "http://blogforge-local.local/welcome-muskan-a-journey-of-exploration/"
+      },
+      "modified": "2025-12-11T15:01:07",
+      "modified_gmt": "2025-12-11T15:01:07",
+      "password": "",
+      "slug": "welcome-muskan-a-journey-of-exploration",
+      "status": "publish",
+      "type": "post",
+      "link": "http://blogforge-local.local/welcome-muskan-a-journey-of-exploration/",
+      "title": {
+        "raw": "Welcome Muskan: A Journey of Exploration",
+        "rendered": "Welcome Muskan: A Journey of Exploration"
+      },
+      "content": {
+        "raw": "<h1>Welcome Muskan: A Journey of Exploration</h1>\n<p>Hello everyone! My name is Muskan, and I’m excited to share my journey with you. In this blog, I will dive into various topics that inspire curiosity and growth. Let’s embark on this adventure together!</p>\n<h2>What to Expect on This Journey</h2>\n<p>Throughout this blog, you can look forward to:</p>\n<ul>\n<li><strong>Personal Stories</strong>: Sharing my experiences and lessons learned.</li>\n<li><strong>Travel Adventures</strong>: Exploring new places and cultures.</li>\n<li><strong>Life Tips</strong>: Offering advice on self-improvement and mindfulness.</li>\n<li><strong>Creative Writing</strong>: Expressing thoughts through poetry and prose.</li>\n<li><strong>Community Engagement</strong>: Inviting you to share your own stories and experiences.</li>\n</ul>\n<h2>Conclusion</h2>\n<p>Thank you for joining me on this journey. I hope my posts inspire you to explore your own path and embrace new adventures. Let’s connect and grow together!</p>\n",
+        "rendered": "<h1>Welcome Muskan: A Journey of Exploration</h1>\n<p>Hello everyone! My name is Muskan, and I’m excited to share my journey with you. In this blog, I will dive into various topics that inspire curiosity and growth. Let’s embark on this adventure together!</p>\n<h2>What to Expect on This Journey</h2>\n<p>Throughout this blog, you can look forward to:</p>\n<ul>\n<li><strong>Personal Stories</strong>: Sharing my experiences and lessons learned.</li>\n<li><strong>Travel Adventures</strong>: Exploring new places and cultures.</li>\n<li><strong>Life Tips</strong>: Offering advice on self-improvement and mindfulness.</li>\n<li><strong>Creative Writing</strong>: Expressing thoughts through poetry and prose.</li>\n<li><strong>Community Engagement</strong>: Inviting you to share your own stories and experiences.</li>\n</ul>\n<h2>Conclusion</h2>\n<p>Thank you for joining me on this journey. I hope my posts inspire you to explore your own path and embrace new adventures. Let’s connect and grow together!</p>\n",
+        "protected": false,
+        "block_version": 0
+      },
+      "excerpt": {
+        "raw": "Join Muskan on her journey of exploration and self-discovery. Discover insights, tips, and adventures!",
+        "rendered": "<p>Join Muskan on her journey of exploration and self-discovery. Discover insights, tips, and adventures!</p>\n",
+        "protected": false
+      },
+      "author": 1,
+      "featured_media": 0,
+      "comment_status": "open",
+      "ping_status": "open",
+      "sticky": false,
+      "template": "",
+      "format": "standard",
+      "meta": {
+        "footnotes": ""
+      },
+      "categories": [
+        1
+      ],
+      "tags": [],
+      "permalink_template": "http://blogforge-local.local/%postname%/",
+      "generated_slug": "welcome-muskan-a-journey-of-exploration",
+      "class_list": [
+        "post-6",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-uncategorized"
+      ],
+      "_links": {
+        "self": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/6",
+            "targetHints": {
+              "allow": [
+                "GET",
+                "POST",
+                "PUT",
+                "PATCH",
+                "DELETE"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/types/post"
+          }
+        ],
+        "author": [
+          {
+            "embeddable": true,
+            "href": "http://blogforge-local.local/wp-json/wp/v2/users/1"
+          }
+        ],
+        "replies": [
+          {
+            "embeddable": true,
+            "href": "http://blogforge-local.local/wp-json/wp/v2/comments?post=6"
+          }
+        ],
+        "version-history": [
+          {
+            "count": 0,
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/6/revisions"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/media?parent=6"
+          }
+        ],
+        "wp:term": [
+          {
+            "taxonomy": "category",
+            "embeddable": true,
+            "href": "http://blogforge-local.local/wp-json/wp/v2/categories?post=6"
+          },
+          {
+            "taxonomy": "post_tag",
+            "embeddable": true,
+            "href": "http://blogforge-local.local/wp-json/wp/v2/tags?post=6"
+          }
+        ],
+        "wp:action-publish": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/6"
+          }
+        ],
+        "wp:action-unfiltered-html": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/6"
+          }
+        ],
+        "wp:action-sticky": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/6"
+          }
+        ],
+        "wp:action-assign-author": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/6"
+          }
+        ],
+        "wp:action-create-categories": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/6"
+          }
+        ],
+        "wp:action-assign-categories": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/6"
+          }
+        ],
+        "wp:action-create-tags": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/6"
+          }
+        ],
+        "wp:action-assign-tags": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/6"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "c18daf15-bf3a-45ba-a5cb-33b23e8b4cb3",
+    "noteId": "frontend-test",
+    "prompt": "Hello! My name is Muskan.",
+    "createdAt": "2025-12-11T15:01:08.994Z",
+    "title": "Meet Muskan: A Journey of Inspiration",
+    "postUrl": "http://blogforge-local.local/meet-muskan-a-journey-of-inspiration/",
+    "wpFull": {
+      "id": 7,
+      "date": "2025-12-11T15:01:07",
+      "date_gmt": "2025-12-11T15:01:07",
+      "guid": {
+        "rendered": "http://blogforge-local.local/meet-muskan-a-journey-of-inspiration/",
+        "raw": "http://blogforge-local.local/meet-muskan-a-journey-of-inspiration/"
+      },
+      "modified": "2025-12-11T15:01:07",
+      "modified_gmt": "2025-12-11T15:01:07",
+      "password": "",
+      "slug": "meet-muskan-a-journey-of-inspiration",
+      "status": "publish",
+      "type": "post",
+      "link": "http://blogforge-local.local/meet-muskan-a-journey-of-inspiration/",
+      "title": {
+        "raw": "Meet Muskan: A Journey of Inspiration",
+        "rendered": "Meet Muskan: A Journey of Inspiration"
+      },
+      "content": {
+        "raw": "<h1>Meet Muskan: A Journey of Inspiration</h1>\n<h2>Introduction</h2>\n<p>Hello everyone! My name is Muskan, and I’m excited to share my journey with you. Each person&#39;s story is unique, and I believe that sharing experiences can inspire others. In this blog post, I’ll delve into my passions, challenges, and the lessons I’ve learned along the way.</p>\n<h2>My Background</h2>\n<ul>\n<li>Born and raised in a vibrant city.</li>\n<li>Developed a love for art and creativity at a young age.</li>\n<li>Pursued my education with a focus on personal growth.</li>\n<li>Engaged in community service to give back and connect with others.</li>\n<li>Embraced challenges as opportunities for growth.</li>\n</ul>\n<h2>My Passions</h2>\n<ul>\n<li><strong>Art</strong>: Exploring various mediums, from painting to digital art.</li>\n<li><strong>Writing</strong>: Expressing thoughts and stories through the written word.</li>\n<li><strong>Travel</strong>: Experiencing new cultures and meeting diverse people.</li>\n<li><strong>Community Engagement</strong>: Volunteering and supporting local initiatives.</li>\n<li><strong>Personal Development</strong>: Continuous learning and self-improvement.</li>\n</ul>\n<h2>Conclusion</h2>\n<p>Thank you for taking the time to learn about me, Muskan! I hope my story resonates with you and inspires you to pursue your passions. Remember, every journey is worth sharing, and together, we can uplift each other in our individual paths.</p>\n",
+        "rendered": "<h1>Meet Muskan: A Journey of Inspiration</h1>\n<h2>Introduction</h2>\n<p>Hello everyone! My name is Muskan, and I’m excited to share my journey with you. Each person&#39;s story is unique, and I believe that sharing experiences can inspire others. In this blog post, I’ll delve into my passions, challenges, and the lessons I’ve learned along the way.</p>\n<h2>My Background</h2>\n<ul>\n<li>Born and raised in a vibrant city.</li>\n<li>Developed a love for art and creativity at a young age.</li>\n<li>Pursued my education with a focus on personal growth.</li>\n<li>Engaged in community service to give back and connect with others.</li>\n<li>Embraced challenges as opportunities for growth.</li>\n</ul>\n<h2>My Passions</h2>\n<ul>\n<li><strong>Art</strong>: Exploring various mediums, from painting to digital art.</li>\n<li><strong>Writing</strong>: Expressing thoughts and stories through the written word.</li>\n<li><strong>Travel</strong>: Experiencing new cultures and meeting diverse people.</li>\n<li><strong>Community Engagement</strong>: Volunteering and supporting local initiatives.</li>\n<li><strong>Personal Development</strong>: Continuous learning and self-improvement.</li>\n</ul>\n<h2>Conclusion</h2>\n<p>Thank you for taking the time to learn about me, Muskan! I hope my story resonates with you and inspires you to pursue your passions. Remember, every journey is worth sharing, and together, we can uplift each other in our individual paths.</p>\n",
+        "protected": false,
+        "block_version": 0
+      },
+      "excerpt": {
+        "raw": "Discover Muskan's inspiring journey and insights into her life and passions in this engaging blog post.",
+        "rendered": "<p>Discover Muskan&#8217;s inspiring journey and insights into her life and passions in this engaging blog post.</p>\n",
+        "protected": false
+      },
+      "author": 1,
+      "featured_media": 0,
+      "comment_status": "open",
+      "ping_status": "open",
+      "sticky": false,
+      "template": "",
+      "format": "standard",
+      "meta": {
+        "footnotes": ""
+      },
+      "categories": [
+        1
+      ],
+      "tags": [],
+      "permalink_template": "http://blogforge-local.local/%postname%/",
+      "generated_slug": "meet-muskan-a-journey-of-inspiration",
+      "class_list": [
+        "post-7",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-uncategorized"
+      ],
+      "_links": {
+        "self": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/7",
+            "targetHints": {
+              "allow": [
+                "GET",
+                "POST",
+                "PUT",
+                "PATCH",
+                "DELETE"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/types/post"
+          }
+        ],
+        "author": [
+          {
+            "embeddable": true,
+            "href": "http://blogforge-local.local/wp-json/wp/v2/users/1"
+          }
+        ],
+        "replies": [
+          {
+            "embeddable": true,
+            "href": "http://blogforge-local.local/wp-json/wp/v2/comments?post=7"
+          }
+        ],
+        "version-history": [
+          {
+            "count": 0,
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/7/revisions"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/media?parent=7"
+          }
+        ],
+        "wp:term": [
+          {
+            "taxonomy": "category",
+            "embeddable": true,
+            "href": "http://blogforge-local.local/wp-json/wp/v2/categories?post=7"
+          },
+          {
+            "taxonomy": "post_tag",
+            "embeddable": true,
+            "href": "http://blogforge-local.local/wp-json/wp/v2/tags?post=7"
+          }
+        ],
+        "wp:action-publish": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/7"
+          }
+        ],
+        "wp:action-unfiltered-html": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/7"
+          }
+        ],
+        "wp:action-sticky": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/7"
+          }
+        ],
+        "wp:action-assign-author": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/7"
+          }
+        ],
+        "wp:action-create-categories": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/7"
+          }
+        ],
+        "wp:action-assign-categories": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/7"
+          }
+        ],
+        "wp:action-create-tags": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/7"
+          }
+        ],
+        "wp:action-assign-tags": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/7"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "826164a2-07ed-488b-98d5-fd5b2ccc13bf",
+    "noteId": "frontend-test",
+    "prompt": "Hello! My name is Muskan.",
+    "createdAt": "2025-12-11T15:01:09.084Z",
+    "title": "Welcome Muskan: A Journey of Discovery",
+    "postUrl": "http://blogforge-local.local/welcome-muskan-a-journey-of-discovery/",
+    "wpFull": {
+      "id": 8,
+      "date": "2025-12-11T15:01:09",
+      "date_gmt": "2025-12-11T15:01:09",
+      "guid": {
+        "rendered": "http://blogforge-local.local/welcome-muskan-a-journey-of-discovery/",
+        "raw": "http://blogforge-local.local/welcome-muskan-a-journey-of-discovery/"
+      },
+      "modified": "2025-12-11T15:01:09",
+      "modified_gmt": "2025-12-11T15:01:09",
+      "password": "",
+      "slug": "welcome-muskan-a-journey-of-discovery",
+      "status": "publish",
+      "type": "post",
+      "link": "http://blogforge-local.local/welcome-muskan-a-journey-of-discovery/",
+      "title": {
+        "raw": "Welcome Muskan: A Journey of Discovery",
+        "rendered": "Welcome Muskan: A Journey of Discovery"
+      },
+      "content": {
+        "raw": "<h1>Welcome Muskan: A Journey of Discovery</h1>\n<h2>Introduction</h2>\n<p>Hello! My name is Muskan, and I am excited to share my journey with you. Life is a series of experiences that shape who we are. In this blog, I will explore various aspects of self-discovery, personal growth, and the lessons learned along the way.</p>\n<h2>Key Points of My Journey</h2>\n<ul>\n<li><strong>Embracing Change:</strong> Learning to adapt is crucial for personal growth.</li>\n<li><strong>The Power of Mindfulness:</strong> Practicing mindfulness helps in finding inner peace.</li>\n<li><strong>Setting Goals:</strong> Establishing clear goals is essential for achieving success.</li>\n<li><strong>Building Resilience:</strong> Overcoming challenges strengthens our character.</li>\n<li><strong>Connecting with Others:</strong> Forming meaningful relationships enriches our lives.</li>\n</ul>\n<h2>Conclusion</h2>\n<p>Every journey is unique, and I invite you to join me as I navigate through mine. Together, let&#39;s embrace the beauty of self-discovery and the power of personal growth.</p>\n",
+        "rendered": "<h1>Welcome Muskan: A Journey of Discovery</h1>\n<h2>Introduction</h2>\n<p>Hello! My name is Muskan, and I am excited to share my journey with you. Life is a series of experiences that shape who we are. In this blog, I will explore various aspects of self-discovery, personal growth, and the lessons learned along the way.</p>\n<h2>Key Points of My Journey</h2>\n<ul>\n<li><strong>Embracing Change:</strong> Learning to adapt is crucial for personal growth.</li>\n<li><strong>The Power of Mindfulness:</strong> Practicing mindfulness helps in finding inner peace.</li>\n<li><strong>Setting Goals:</strong> Establishing clear goals is essential for achieving success.</li>\n<li><strong>Building Resilience:</strong> Overcoming challenges strengthens our character.</li>\n<li><strong>Connecting with Others:</strong> Forming meaningful relationships enriches our lives.</li>\n</ul>\n<h2>Conclusion</h2>\n<p>Every journey is unique, and I invite you to join me as I navigate through mine. Together, let&#39;s embrace the beauty of self-discovery and the power of personal growth.</p>\n",
+        "protected": false,
+        "block_version": 0
+      },
+      "excerpt": {
+        "raw": "Join Muskan on an inspiring journey of self-discovery and personal growth.",
+        "rendered": "<p>Join Muskan on an inspiring journey of self-discovery and personal growth.</p>\n",
+        "protected": false
+      },
+      "author": 1,
+      "featured_media": 0,
+      "comment_status": "open",
+      "ping_status": "open",
+      "sticky": false,
+      "template": "",
+      "format": "standard",
+      "meta": {
+        "footnotes": ""
+      },
+      "categories": [
+        1
+      ],
+      "tags": [],
+      "permalink_template": "http://blogforge-local.local/%postname%/",
+      "generated_slug": "welcome-muskan-a-journey-of-discovery",
+      "class_list": [
+        "post-8",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "hentry",
+        "category-uncategorized"
+      ],
+      "_links": {
+        "self": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/8",
+            "targetHints": {
+              "allow": [
+                "GET",
+                "POST",
+                "PUT",
+                "PATCH",
+                "DELETE"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts"
+          }
+        ],
+        "about": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/types/post"
+          }
+        ],
+        "author": [
+          {
+            "embeddable": true,
+            "href": "http://blogforge-local.local/wp-json/wp/v2/users/1"
+          }
+        ],
+        "replies": [
+          {
+            "embeddable": true,
+            "href": "http://blogforge-local.local/wp-json/wp/v2/comments?post=8"
+          }
+        ],
+        "version-history": [
+          {
+            "count": 0,
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/8/revisions"
+          }
+        ],
+        "wp:attachment": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/media?parent=8"
+          }
+        ],
+        "wp:term": [
+          {
+            "taxonomy": "category",
+            "embeddable": true,
+            "href": "http://blogforge-local.local/wp-json/wp/v2/categories?post=8"
+          },
+          {
+            "taxonomy": "post_tag",
+            "embeddable": true,
+            "href": "http://blogforge-local.local/wp-json/wp/v2/tags?post=8"
+          }
+        ],
+        "wp:action-publish": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/8"
+          }
+        ],
+        "wp:action-unfiltered-html": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/8"
+          }
+        ],
+        "wp:action-sticky": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/8"
+          }
+        ],
+        "wp:action-assign-author": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/8"
+          }
+        ],
+        "wp:action-create-categories": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/8"
+          }
+        ],
+        "wp:action-assign-categories": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/8"
+          }
+        ],
+        "wp:action-create-tags": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/8"
+          }
+        ],
+        "wp:action-assign-tags": [
+          {
+            "href": "http://blogforge-local.local/wp-json/wp/v2/posts/8"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    }
+  }
+]
